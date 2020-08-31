@@ -5,9 +5,10 @@ Testing playground for Tari project.
 
 ```
 git clone https://github.com/the-mog/testsuite
-git submodule init
+git clone https://github.com/tari-project/tari
+git clone https://github.com/tari-project/tari_utilities
+git clone https://github.com/tari-project/tari-crypto
+git clone https://github.com/the-mog/tari-fuzzer
 ```
-or just:  
-```git clone --recurse-submodules https://github.com/the-mog/testsuite```
 
 then ```cd``` into the tari-fuzzer crate to get haxoring.
