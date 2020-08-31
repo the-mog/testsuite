@@ -1,0 +1,6 @@
+[submodule "tari"]
+	path = tari
+	url = https://github.com/tari-project/tari
+[submodule "tari-crypto"]
+	path = tari-crypto
+	url = https://github.com/tari-project/tari-crypto
