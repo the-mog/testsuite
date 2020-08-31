@@ -1,7 +1,2 @@
 #ignore
 .idea/
-
-#submodules
-tari/
-tari-crypto/
-tari_utilities/
