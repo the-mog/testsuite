@@ -11,4 +11,4 @@ git clone https://github.com/tari-project/tari-crypto
 git clone https://github.com/the-mog/tari-fuzzer
 ```
 
-then ```cd``` into the tari-fuzzer crate to get haxoring.
+then ```cd``` into the tari-fuzzer directory to start haxoring.
