@@ -7,6 +7,3 @@
 [submodule "tari_utilities"]
 	path = tari_utilities
 	url = https://github.com/tari-project/tari_utilities
-[submodule "tari-fuzzer"]
-	path = tari-fuzzer
-	url = https://github.com/the-mog/tari-fuzzer/
